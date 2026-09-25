@@ -1,9 +1,0 @@
-city: New York
-is_student: true
-grade:
-  - subject: Math
-    grade: F
-  - subject: English
-    grade: F
-  - subject: Science
-    grade: F+
